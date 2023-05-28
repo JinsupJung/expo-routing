@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "expo-routing",
-    "slug": "expo-routing"
+    "slug": "expo-routing",
+    "extra": {
+      "eas": {
+        "projectId": "20be5173-16f4-49c9-bd4f-b73594c470df"
+      }
+    },
+    "android": {
+      "package": "com.jinsupjung.exporouting"
+    }
   }
 }
