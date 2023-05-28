@@ -18,7 +18,7 @@ const useFetch = (endpoint, query) => {
   //     num_pages: '1'
   //   },
   //   headers: {
-  //     'X-RapidAPI-Key': '6cb44701a6msh6c4dc8c51b72094p1bca86jsna5c370c6c431',
+  //     'X-RapidAPI-Key': '',
   //     'X-RapidAPI-Host': 'jsearch.p.rapidapi.com'
   //   }
   // };
@@ -28,7 +28,7 @@ const useFetch = (endpoint, query) => {
     method: "GET",
     url: `https://jsearch.p.rapidapi.com/${endpoint}`,
     headers: {
-      "X-RapidAPI-Key": '8b037d5d67mshf4412eaaab21e3fp116551jsn01c79ea4de69',
+      "X-RapidAPI-Key": '',
       "X-RapidAPI-Host": "jsearch.p.rapidapi.com",
     },
     params: { ...query },
