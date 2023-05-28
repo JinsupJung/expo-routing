@@ -1,5 +1,5 @@
 
-# 프로젝트명: 잘파인더 (JobFinder)
+# 프로젝트명: 잡파인더 (JobFinder)
 > Rapid API를 이용하여 직업타입, 직업군, 거리 순의 Job Finding을 수행합니다.
 
 > [Next JS & Open AI / GPT: Next-generation]   
